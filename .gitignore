@@ -55,29 +55,14 @@ docs/_build/
 
 
 # config
-fabfile.py
-settings.online.py
-/gaia/settings.py
-settings_local.py
+
 media/
 log/
 crawldata/
 conf/
-/static
 .vagrant/
 Vagrantfile
 
 *.DS_Store
 dump.rdb
-# .gitignore for yangchuncheng
-api/management/commands/ycc*
-settings_override*
-.script/
-.tmp.sql
-.env
-*.pem
-/gaia/hospital_list_settings.py
-coverage_html/
-gaia/rpcd.json
-
-dbmw_deploy/config.dir/
+.idea
